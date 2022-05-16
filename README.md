@@ -11,4 +11,4 @@
 
 **Output**
 
-&nbsp; &nbsp;&nbsp; **simple interest**  = \p*t*r\
+&nbsp; &nbsp;&nbsp; **simple interest**  = p\*t\*r
